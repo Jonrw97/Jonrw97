@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Watkins</h1>
 <h3 align="center">A Fullstack Developer/Super Nerd</h3>
 
-- 🔭 I’m currently working on [Konnec-trivia](https://www.konnec-trivia.me/)
+- 🔭 I’m currently working on [Konnec-trivia](https://www.konnec-trivia.me/) (for mobile)
 
 - 📫 How to reach me **jonrw97@gmail.com**
 
