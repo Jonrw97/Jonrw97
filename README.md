@@ -4,13 +4,21 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
+   </div>
+  <img src="https://komarev.com/ghpvc/?username=Jonrw97&style=flat-square&color=blue" alt=""/>
  </div>
 <h1 align="center">Hi 👋, I'm Jonathan Watkins</h1>
-<h3 align="center">A Fullstack Developer/Super Nerd</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
+I'm a Fullstack Developer/Super Nerd<img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="30">
 
 
-https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif
+
 - 🔭 I’m currently working on [Konnec-trivia](https://www.konnec-trivia.me/) (for mobile)
 
 - 📫 How to reach me **jonrw97@gmail.com**
