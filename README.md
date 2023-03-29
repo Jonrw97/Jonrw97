@@ -1,6 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+ </div>
 <h1 align="center">Hi 👋, I'm Jonathan Watkins</h1>
 <h3 align="center">A Fullstack Developer/Super Nerd</h3>
 
+
+https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif
 - 🔭 I’m currently working on [Konnec-trivia](https://www.konnec-trivia.me/) (for mobile)
 
 - 📫 How to reach me **jonrw97@gmail.com**
