@@ -29,9 +29,5 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jonrw97&theme=merko)](https://git.io/streak-stats)
   <br>
   <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonrw97&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonrw97&hide_progress=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
